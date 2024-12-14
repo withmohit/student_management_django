@@ -105,10 +105,6 @@ docker-compose up --build
 ```
 This will build the Docker image and run the Django application and the PostgreSQL service.
 
-## **Video Links**
-Watch the videos to learn in proper way.
-https://youtu.be/mM6vMMLYJHY
-
 
 ## **Testing**
 You can run the unit tests with Django's built-in testing framework:
@@ -118,16 +114,5 @@ python manage.py test
 ```
 
 This will run all the tests located in the `tests.py` files of your Django apps.
-
-## **Contributing**
-If you want to contribute to this project, please follow the steps below:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -am 'Add a new feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a pull request.
-
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
